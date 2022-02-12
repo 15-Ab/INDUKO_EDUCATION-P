@@ -2,6 +2,10 @@
 
 Links to presentation and video pitch :
 
+Presentation : https://docs.google.com/presentation/d/14RPeyrh0bLMJx3bPp8QdNT1UITBsD3PZ/edit?usp=drivesdk&ouid=109757351640825888039&rtpof=true&sd=true
+
+Video Pitch : https://www.youtube.com/watch?v=zhHM6kr80Vw
+
 
 ## Setup Instructions Needed
 
