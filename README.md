@@ -17,6 +17,8 @@ HTML
 
 CSS
 
+Javascript
+
 Bootstrap
 
 Some documentation on study related topics
