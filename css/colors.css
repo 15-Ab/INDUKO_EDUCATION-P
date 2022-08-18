@@ -58,7 +58,7 @@ div.tab button.active,
 }
 
 .testimonials blockquote:hover:after {
-    border-top-color: #6b9e10;
+    border-top-color: #a1f80c;
 }
 
 .form-control:focus,
